@@ -1,5 +1,5 @@
 # Site settings
-title: "Jason Ephraim's Resume"
+title: "Tiphine Cross's Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,16 +10,16 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Jason Ephraim"
-resume_title:                   "Campus Director"
+resume_name:                    "Tiphine Cross"
+resume_title:                   "Freelancer"
 resume_contact_email:
-  "jason@digitalcrafts.com"
+  "tiphinecs@hotmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
